@@ -1,0 +1,53 @@
+
+
+[
+  {
+    "img": "img/Snowflake-MLOps.jpg",
+    "title": "Snowflake MLOps",
+    "description": "CI/CD, Github, Docker, FastAPI, Snowflake,  LinearRegression | GitHub",
+    "link": "#",
+    "demo":"#"
+  },
+  {
+    "img": "img/AdPredictor-ML-deployment.gif",
+    "title": "AdPredictor ML-deployment",
+    "description": "CI/CD, Github, Docker, FastAPI, Ml Model | GitHub",
+    "link": "#",
+    "demo":"#"
+  },
+  {
+    "img": "img/Sentiment-Analysis.png",
+    "title": "Sentiment Analysis with Deep <br>Learning and MLflow",
+    "description": "Python,TensorFlow, Keras, FastAPI, MLflow, Docker, MinIO, MySQL, Conda | GitHub",
+    "link": "#",
+    "demo":"#"
+  },
+  {
+    "img": "img/ML-algorithms.jpg",
+    "title": "ML algorithms",
+    "description": "Regression Models, KNN, Decision Trees, Unsupervised Learning, Gradient Boosting Machine and more | GitHub",
+    "link": "#",
+    "demo":"#"
+  },
+  {
+    "img": "img/Deploying-ML.jpg",
+    "title": "Deploying ML on Docker&Kubernetes",
+    "description": "Regression Model, FastAPI, Docker, Kubernetes, Minikube |GitHub",
+    "link": "#",
+    "demo":"#"
+  },
+  {
+    "img": "img/RFM.webp",
+    "title": "RFM Customer Segmentation",
+    "description": "Python, Pandas, Scikit-Learn, RFM | GitHub",
+    "link": "#",
+    "demo":"#"
+  },
+  {
+    "img": "img/Time-Series-Analysis.webp",
+    "title": "Time Series Analysis",
+    "description": "Python, Prophet, XGBoost, Scikit-Learn, Statsmodels | GitHub",
+    "link": "#",
+    "demo":"#"
+  }
+]
