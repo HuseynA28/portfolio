@@ -51,7 +51,7 @@
     "demo":"https://github.com/HuseynA28/Time-Series-ml-models"
   },
      {
-    "img": "img/faceapp.webp",
+    "img": "img/faceapp.gif",
     "title": "Face Decection MLOPS",
     "description": "AWS, MLflow, Snowflake, Scikit-Learn, Jenkins , Docker, Grafana, Evidently| GitHub",
     "link": "https://github.com/HuseynA28/awsMlopsFaceApp",
