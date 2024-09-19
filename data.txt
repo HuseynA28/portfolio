@@ -5,21 +5,21 @@
     "img": "img/Snowflake-MLOps.jpg",
     "title": "Snowflake MLOps",
     "description": "CI/CD, Github, Docker, FastAPI, Snowflake,  LinearRegression | GitHub",
-    "link": "#",
+    "link": "https://github.com/HuseynA28/Snowflake-MLOPS",
     "demo":"#"
   },
   {
     "img": "img/AdPredictor-ML-deployment.gif",
     "title": "AdPredictor ML-deployment",
     "description": "CI/CD, Github, Docker, FastAPI, Ml Model | GitHub",
-    "link": "#",
+    "link": "https://github.com/HuseynA28/AdPredictor-Web-services-model-deployment",
     "demo":"#"
   },
   {
     "img": "img/Sentiment-Analysis.png",
     "title": "Sentiment Analysis with Deep <br>Learning and MLflow",
     "description": "Python,TensorFlow, Keras, FastAPI, MLflow, Docker, MinIO, MySQL, Conda | GitHub",
-    "link": "#",
+    "link": "https://github.com/HuseynA28/Sentiment-Analysis-with-Deep-Learning-and-MLflow",
     "demo":"#"
   },
   {
@@ -33,7 +33,7 @@
     "img": "img/Deploying-ML.jpg",
     "title": "Deploying ML on Docker&Kubernetes",
     "description": "Regression Model, FastAPI, Docker, Kubernetes, Minikube |GitHub",
-    "link": "#",
+    "link": "https://github.com/HuseynA28/Deploying-ML-with-FastAPI-on-Docker-Kubernetes",
     "demo":"#"
   },
   {
