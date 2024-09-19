@@ -4,50 +4,57 @@
   {
     "img": "img/Snowflake-MLOps.jpg",
     "title": "Snowflake MLOps",
-    "description": "CI/CD, Github, Docker, FastAPI, Snowflake,  LinearRegression | GitHub",
+    "description": "CI/CD, Github, Docker, FastAPI, Snowflake,  LinearRegression ,GitHub",
     "link": "https://github.com/HuseynA28/Snowflake-MLOPS",
-    "demo":"#"
+    "demo":"https://github.com/HuseynA28/Snowflake-MLOPS"
   },
   {
     "img": "img/AdPredictor-ML-deployment.gif",
     "title": "AdPredictor ML-deployment",
-    "description": "CI/CD, Github, Docker, FastAPI, Ml Model | GitHub",
+    "description": "CI/CD, Github, Docker, FastAPI, Ml Model , GitHub",
     "link": "https://github.com/HuseynA28/AdPredictor-Web-services-model-deployment",
-    "demo":"#"
+    "demo":"https://github.com/HuseynA28/AdPredictor-Web-services-model-deployment"
   },
   {
     "img": "img/Sentiment-Analysis.png",
     "title": "Sentiment Analysis with Deep <br>Learning and MLflow",
-    "description": "Python,TensorFlow, Keras, FastAPI, MLflow, Docker, MinIO, MySQL, Conda | GitHub",
+    "description": "Python,TensorFlow, Keras, FastAPI, MLflow, Docker, MinIO, MySQL, Conda ,GitHub",
     "link": "https://github.com/HuseynA28/Sentiment-Analysis-with-Deep-Learning-and-MLflow",
-    "demo":"#"
+    "demo":"https://github.com/HuseynA28/Sentiment-Analysis-with-Deep-Learning-and-MLflow"
   },
   {
     "img": "img/ML-algorithms.jpg",
     "title": "ML algorithms",
-    "description": "Regression Models, KNN, Decision Trees, Unsupervised Learning, Gradient Boosting Machine and more | GitHub",
-    "link": "#",
-    "demo":"#"
+    "description": "Regression Models, KNN, Decision Trees, Unsupervised Learning, Gradient Boosting Machine and more ,GitHub",
+    "link": "https://github.com/HuseynA28/Machine-learning-algorithms",
+    "demo":"https://github.com/HuseynA28/Machine-learning-algorithms"
   },
   {
     "img": "img/Deploying-ML.jpg",
     "title": "Deploying ML on Docker&Kubernetes",
-    "description": "Regression Model, FastAPI, Docker, Kubernetes, Minikube |GitHub",
+    "description": "Regression Model, FastAPI, Docker, Kubernetes, Minikube,GitHub",
     "link": "https://github.com/HuseynA28/Deploying-ML-with-FastAPI-on-Docker-Kubernetes",
-    "demo":"#"
+    "demo":"https://github.com/HuseynA28/Deploying-ML-with-FastAPI-on-Docker-Kubernetes"
   },
   {
     "img": "img/RFM.webp",
     "title": "RFM Customer Segmentation",
-    "description": "Python, Pandas, Scikit-Learn, RFM | GitHub",
+    "description": "Python, Pandas, Scikit-Learn, RFM ,GitHub",
     "link": "#",
     "demo":"#"
   },
   {
     "img": "img/Time-Series-Analysis.webp",
     "title": "Time Series Analysis",
-    "description": "Python, Prophet, XGBoost, Scikit-Learn, Statsmodels | GitHub",
-    "link": "#",
-    "demo":"#"
+    "description": "Python, Prophet, XGBoost, Scikit-Learn, Statsmodels ,GitHub",
+    "link": "https://github.com/HuseynA28/Time-Series-ml-models",
+    "demo":"https://github.com/HuseynA28/Time-Series-ml-models"
+  }
+    {
+    "img": "img/faceapp.webp",
+    "title": "Face Decection MLOPS",
+    "description": "AWS, MLflow, Snowflake, Scikit-Learn, Jenkins , Docker, Grafana, Evidently,GitHub",
+    "link": "https://github.com/HuseynA28/awsMlopsFaceApp",
+    "demo":"https://facerecognitionmachinelearning-production-f097.up.railway.app/"
   }
 ]
