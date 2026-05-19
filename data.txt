@@ -58,3 +58,4 @@
     "demo":"https://github.com/HuseynA28/awsMlopsFaceApp"
   }
 ]
+
